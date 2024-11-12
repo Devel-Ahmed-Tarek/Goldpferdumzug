@@ -34,4 +34,4 @@ To set up **Full-Stack Platform for Transport Offers** locally, follow the steps
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Devel-Ahmed-Tarek/transport-offers-platform.git
+   git clone https://github.com/Devel-Ahmed-Tarek/Goldpferdumzug
