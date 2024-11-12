@@ -1,4 +1,4 @@
-# Full-Stack Platform for Transport Offers
+# Goldpferdumzug Platform for Transport Offers
 
 **[Demo](#)** | **[GitHub](#)**
 
